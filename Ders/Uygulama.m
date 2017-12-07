@@ -1,1 +1,1 @@
-%ugulama
+%uygulama
